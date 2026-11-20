@@ -18,7 +18,7 @@
   height: 100%;
   object-fit: cover;
   object-position: center 18%;
-}.orbit{position:absolute;border:1px solid rgba(36,75,61,.22);border-radius:50%}.orbit-one{inset:12%}.orbit-two{inset:-5%;border-style:dashed;opacity:.55}.orbit-label{position:absolute;z-index:3;bottom:19%;font-size:9px;letter-spacing:.2em;font-weight:700;color:#587263}.orbit-label i{font-style:normal;color:#b18a66;padding:0 4px}.art-dot{position:absolute;width:10px;height:10px;background:#b58d69;border-radius:50%}.dot-one{top:15%;right:22%}.dot-two{bottom:23%;left:8%;width:7px;height:7px}.dot-three{top:48%;right:-5%;width:6px;height:6px}.art-square {
+}.orbit{position:absolute;border:1px solid rgba(36,75,61,.22);border-radius:50%}.orbit-one{inset:12%}.orbit-two{inset:-5%;border-style:dashed;opacity:.55}.art-dot{position:absolute;width:10px;height:10px;background:#b58d69;border-radius:50%}.dot-one{top:15%;right:22%}.dot-two{bottom:23%;left:8%;width:7px;height:7px}.dot-three{top:48%;right:-5%;width:6px;height:6px}.art-square {
   position: absolute;
   z-index: 3;
   width: 18px;
