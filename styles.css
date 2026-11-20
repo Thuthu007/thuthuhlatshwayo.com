@@ -7,7 +7,7 @@
   inset: 7% 17% 8%;
   overflow: hidden;
   border: 7px solid var(--paper);
-  border-radius: 48% 48% 42% 42% / 38% 38% 32% 32%;
+  border-radius: 50%;
   background: var(--sage);
   box-shadow: 0 8px 24px rgba(29,48,40,.08);
 }
