@@ -22,7 +22,7 @@ Open `index.html` in a browser.
 After registering `thuthuhlatshwayo.com`, configure it in **Settings → Pages → Custom domain** and add the DNS records GitHub Pages specifies. Enable HTTPS once DNS verification is complete.
 
 ## Notes
-- The site currently links the contact action to LinkedIn.
+- The site currently links the contact action to LinkedIn. 
 - The page uses Google Fonts; system fallbacks are included.
 - No framework, build step or package installation is required.
 - Review all public-facing claims and links before publishing.
